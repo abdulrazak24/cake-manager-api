@@ -1,0 +1,102 @@
+[
+  {
+    "flavour": "Chocolate",
+    "icing": "Chocolate Ganache",
+    "image": "https://example.com/chocolate_cake.jpg"
+  },
+  {
+    "flavour": "Vanilla",
+    "icing": "Vanilla Buttercream",
+    "image": "https://example.com/vanilla_cake.jpg"
+  },
+  {
+    "flavour": "Strawberry",
+    "icing": "Strawberry Cream Cheese",
+    "image": "https://example.com/strawberry_cake.jpg"
+  },
+  {
+    "flavour": "Red Velvet",
+    "icing": "Cream Cheese",
+    "image": "https://example.com/red_velvet_cake.jpg"
+  },
+  {
+    "flavour": "Lemon",
+    "icing": "Lemon Glaze",
+    "image": "https://example.com/lemon_cake.jpg"
+  },
+  {
+    "flavour": "Carrot",
+    "icing": "Walnut Cream Cheese",
+    "image": "https://example.com/carrot_cake.jpg"
+  },
+  {
+    "flavour": "Coconut",
+    "icing": "Coconut Cream",
+    "image": "https://example.com/coconut_cake.jpg"
+  },
+  {
+    "flavour": "Coffee",
+    "icing": "Mocha Buttercream",
+    "image": "https://example.com/coffee_cake.jpg"
+  },
+  {
+    "flavour": "Pumpkin",
+    "icing": "Cinnamon Cream Cheese",
+    "image": "https://example.com/pumpkin_cake.jpg"
+  },
+  {
+    "flavour": "Almond",
+    "icing": "Almond Buttercream",
+    "image": "https://example.com/almond_cake.jpg"
+  },
+  {
+    "flavour": "Hazelnut",
+    "icing": "Chocolate Hazelnut Ganache",
+    "image": "https://example.com/hazelnut_cake.jpg"
+  },
+  {
+    "flavour": "Blueberry",
+    "icing": "Blueberry Frosting",
+    "image": "https://example.com/blueberry_cake.jpg"
+  },
+  {
+    "flavour": "Raspberry",
+    "icing": "Raspberry Buttercream",
+    "image": "https://example.com/raspberry_cake.jpg"
+  },
+  {
+    "flavour": "Mango",
+    "icing": "Mango Cream",
+    "image": "https://example.com/mango_cake.jpg"
+  },
+  {
+    "flavour": "Orange",
+    "icing": "Orange Zest Glaze",
+    "image": "https://example.com/orange_cake.jpg"
+  },
+  {
+    "flavour": "Cherry",
+    "icing": "Cherry Almond Frosting",
+    "image": "https://example.com/cherry_cake.jpg"
+  },
+  {
+    "flavour": "Pistachio",
+    "icing": "Pistachio Buttercream",
+    "image": "https://example.com/pistachio_cake.jpg"
+  },
+  {
+    "flavour": "Maple",
+    "icing": "Maple Cream Cheese",
+    "image": "https://example.com/maple_cake.jpg"
+  },
+  {
+    "flavour": "Caramel",
+    "icing": "Salted Caramel Frosting",
+    "image": "https://example.com/caramel_cake.jpg"
+  },
+  {
+    "flavour": "Peppermint",
+    "icing": "Peppermint Whipped Cream",
+    "image": "https://example.com/peppermint_cake.jpg"
+  }
+]

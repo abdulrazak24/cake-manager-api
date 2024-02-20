@@ -1,0 +1,6 @@
+version: '3'
+services:
+  cake-api-cakes-api:
+    image: cake-api-cakes-api
+    ports:
+      - "8080:8080"
